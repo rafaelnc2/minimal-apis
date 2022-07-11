@@ -33,3 +33,10 @@ C:\dev\pessoal\MinimalApis\CatalogoApi\CatalogoApi\obj\Debug\net6.0\refint\Catal
 C:\dev\pessoal\MinimalApis\CatalogoApi\CatalogoApi\obj\Debug\net6.0\CatalogoApi.pdb
 C:\dev\pessoal\MinimalApis\CatalogoApi\CatalogoApi\obj\Debug\net6.0\CatalogoApi.genruntimeconfig.cache
 C:\dev\pessoal\MinimalApis\CatalogoApi\CatalogoApi\obj\Debug\net6.0\ref\CatalogoApi.dll
+C:\dev\pessoal\MinimalApis\CatalogoApi\CatalogoApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\dev\pessoal\MinimalApis\CatalogoApi\CatalogoApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dev\pessoal\MinimalApis\CatalogoApi\CatalogoApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\dev\pessoal\MinimalApis\CatalogoApi\CatalogoApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\dev\pessoal\MinimalApis\CatalogoApi\CatalogoApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dev\pessoal\MinimalApis\CatalogoApi\CatalogoApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\dev\pessoal\MinimalApis\CatalogoApi\CatalogoApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
